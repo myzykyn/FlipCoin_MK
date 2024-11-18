@@ -2,7 +2,7 @@
 
 Create a simple game.
 
-[Image](/styles/images/screenshot.png)
+![Screenshot](/styles/images/screenshot.png)
 
 ## Demo
 
