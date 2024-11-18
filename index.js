@@ -23,8 +23,8 @@ flipBtn.addEventListener("click", () => {
 });
 
 function updateStats() {
-    document.querySelector("#heads-count").textContent = `Fuego: ${heads}`;
-    document.querySelector("#tails-count").textContent = `Agua: ${tails}`;
+    document.querySelector("#heads-count").textContent = `Fire: ${heads}`;
+    document.querySelector("#tails-count").textContent = `Water: ${tails}`;
 }
 
 function disableButton() {
