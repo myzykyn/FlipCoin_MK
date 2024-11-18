@@ -2,9 +2,11 @@
 
 Create a simple game.
 
+[Image](/styles/images/screenshot.png)
+
 ## Demo
 
-[Demo](https://myzykyn.github.io/FlipCoin_MK/)
+[FlipCoin Game](https://myzykyn.github.io/FlipCoin_MK/)
 
 ## Built with
 
